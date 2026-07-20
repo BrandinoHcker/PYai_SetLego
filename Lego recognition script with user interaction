@@ -1,0 +1,7 @@
+print("Ciao benvenuto nel nostro negozio lego")
+nome = input("Come ti chiami? ")
+
+print("Benvenuto ", nome, " metti la tua immagine del lego e ti diremo a che set appartiene")
+
+set_lego = classificazione("keras_model.h5", "labels.txt")
+print("Il tuo set lego è ", set_lego)
