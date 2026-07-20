@@ -10,4 +10,4 @@ raccogliere immagine
 3 step:
 allenare il modello
 
-	CONSEGNARE
+CONSEGNARE
